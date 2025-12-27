@@ -1,0 +1,95 @@
+
+
+MANIFEST — Scope and Disclosure Boundary
+This document defines what this repository contains,and—equally important—what it intentionally does not.
+
+
+1. Purpose of this manifest
+This manifest exists to make the scope of disclosure explicit.
+It clarifies:
+• What materials are publicly available
+• What materials are intentionally withheld
+• Why this separation exists
+• How this repository should be interpreted
+This document is part of the research design.
+
+
+2. Publicly disclosed materials
+The following categories of material are included in this repository:
+• Conceptual descriptions of research questions
+• High-level summaries of observed distinctions
+• Statements of intent, limitations, and non-claims
+• Contextual explanations for whycertain approaches were chosen
+These materials are provided to establish:
+• The legitimacy of the research question
+• The boundaries of the investigation
+• The seriousness of the research posture
+They are notprovided to enable reproduction or extension.
+
+
+3. Intentionally withheld materials
+The following materials are notincluded in this repository:
+• Experimental procedures or protocols
+• Parameter values or thresholds
+• Evaluation metrics or scoring rules
+• Step-level or time-series logs
+• Source code or implementation details
+• Automation scripts or pipelines
+• Instructions, recipes, or tutorials
+The absence of these materials is intentional and permanent at this stage.
+
+
+4. Rationale for non-disclosure
+Some research questions depend on howdistinctions are made, not merely whatresults are obtained.
+Premature disclosure of implementation details would:
+• Collapse interpretive judgment into mechanical replication
+• Incentivize surface-level reproduction without understanding
+• Distort the trajectory of an ongoing investigation
+For these reasons, disclosure is limited to conceptual scope rather than procedural detail.
+
+
+5. On verification versus reproduction
+This repository aims to support verification of intent, not reproduction of results.
+Readers are encouraged to assess:
+• Whether the questions are meaningful
+• Whether the distinctions proposed are coherent
+• Whether the stated limitations are responsibly drawn
+Readers should not expect:
+• A complete method
+• A runnable system
+• A transferable implementation
+Verification and reproduction are treated as distinct activities.
+
+
+6. Interpretation guidance
+This repository should be read as:
+• A declaration of inquiry
+• A record of questions asked
+• A boundary-setting document
+It should not be read as:
+• A technical specification
+• A benchmark submission
+• A tutorial or guide
+Any attempt to derive implementation from this material misrepresents its purpose.
+
+
+7. Access beyond this repository
+Additional materials, if shared at all, are provided selectively and under explicit terms.
+Access decisions consider:
+• Research integrity
+• Interpretive capacity
+• Alignment with the intent of the investigation
+Access is notautomatic and is notguaranteed.
+
+
+8. Legal and ethical notice
+All materials in this repository are provided for informational purposes only.
+No license is granted to:
+• Reproduce the research
+• Implement derived systems
+• Create derivative works
+All rights are reserved.
+
+
+9. Closing statement
+This manifest does not hide information.It defines the boundary at which information stops being helpfuland starts being harmful to the question itself.
